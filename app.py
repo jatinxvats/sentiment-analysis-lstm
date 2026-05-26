@@ -119,3 +119,4 @@ st.sidebar.markdown("""
 ### NLP Pipeline
 Text → Tokenization → Padding → LSTM → Prediction
 """)
+>>>>>>> 2fa1ba86c2075274530f572174786359f4469f42
