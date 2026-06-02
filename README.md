@@ -2,6 +2,10 @@
 
 A deep learning-powered web application that classifies text as **Positive** or **Negative** using an LSTM (Long Short-Term Memory) neural network.
 
+## Demo
+
+[Live Application] (https://sentiment-analysis-lstmhbceskbadsjhcbwekfewb.streamlit.app/)
+
 ## Overview
 
 This project implements an end-to-end sentiment analysis pipeline, including text preprocessing, model training, and deployment through a Streamlit web interface.
@@ -22,10 +26,6 @@ This project implements an end-to-end sentiment analysis pipeline, including tex
 * Pandas
 * Scikit-learn
 * Streamlit
-
-## Demo
-
-[Live Application] (https://sentiment-analysis-lstmhbceskbadsjhcbwekfewb.streamlit.app/)
 
 ## Example
 
